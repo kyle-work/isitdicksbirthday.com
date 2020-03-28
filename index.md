@@ -1,4 +1,4 @@
 ---
 layout: page
-tagline: Is it Dicks Birthday?  
+tagline: It is not Dicks Birthday 
 ---
