@@ -1,6 +1,6 @@
 ---
 layout: page
-tagline: # It is not Dicks Birthday
+tagline: It is not Dicks Birthday
 ---
 
 
