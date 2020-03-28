@@ -1,2 +1,6 @@
+---
+layout: page
+tagline:  **It is not Dicks Birthday**
+---
 
-# **It is not Dicks Birthday**
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
