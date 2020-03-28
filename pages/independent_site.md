@@ -61,7 +61,7 @@ edited this line a bit, here.)
 Edit the
 [lines about the site name and author](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L11-L17).
 
-    author :
+      author :
       name : Karl Broman
       email : kbroman@gmail.com
       github : kbroman
