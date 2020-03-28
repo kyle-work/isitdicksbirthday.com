@@ -130,7 +130,7 @@ free to just delete the tagline.
 
     ---
     layout: page
-    title: simple site
+    title: 
     tagline: Easy websites with GitHub Pages
     ---
 
