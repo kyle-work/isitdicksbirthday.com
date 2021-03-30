@@ -1,6 +1,6 @@
 
  .   
     
-# **It is Dick's Birthday!!**
+# **It is not Dick's Birthday**
 
-![Alt Text](https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif)
+![Alt Text](https://media.giphy.com/media/RH1IFq2GT0Oau8NRWX/giphy.gif)
