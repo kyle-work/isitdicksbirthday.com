@@ -1,6 +1,6 @@
 
  .   
     
-# **It is Dick's Birthday!!**
+# **It is not Dick's Birthday!!**
 
-![Alt Text](https://c.tenor.com/jSdTmefrT5YAAAAd/happy-birthday.gif)
+![Alt Text](https://i.imgur.com/Up9DEn0.gif)
